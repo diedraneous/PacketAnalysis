@@ -6,8 +6,12 @@ To get started, download the "Packet Analysis Lab" document. In there, you will 
 
 Once you are ready to analyze the packets, download them from the main page.
 
----- What you will need ---
+---- What you will need ----
 
 1. Wireshark (https://www.wireshark.org)
 2. Word or Document Editor that can open Word Files
 3. A want to learn and explore packet analysis
+
+---- Updates and Version Control ----
+
+04/27/2026: This repository is new as of 04/26/2026. As such, if accessed before 05/01/2026, it may be incomplete. Check back in a few days if you are seeing this BEFORE 05/01/2026.
