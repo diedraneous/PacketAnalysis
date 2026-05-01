@@ -16,6 +16,7 @@ Once you are ready to analyze the packets, download them from the main page.
 1. Wireshark (https://www.wireshark.org)
 2. PDF Reader
 3. A want to learn and explore packet analysis
+4. Note: ZEEK and RITA to be added later
 <p>&nbsp;</p>
 <h2>Updates and Version Control</h2>
 <ol>
