@@ -14,9 +14,10 @@ Once you are ready to analyze the packets, download them from the main page.
 
 
 1. Wireshark (https://www.wireshark.org)
-2. <s>Word or Document Editor that can open Word Files</s> PDF Reader
+2. PDF Reader
 3. A want to learn and explore packet analysis
 <p>&nbsp;</p>
 <h2>Updates and Version Control</h2>
-
-04/27/2026: This repository is new as of 04/26/2026. As such, if accessed before 05/01/2026, it may be incomplete. Check back in a few days if you are seeing this BEFORE 05/01/2026.
+<ol>
+<li></li>04/27/2026: This repository is new as of 04/26/2026. As such, if accessed before 05/01/2026, it may be incomplete. Check back in a few days if you are seeing this BEFORE 05/01/2026.
+</ol>
