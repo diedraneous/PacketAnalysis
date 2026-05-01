@@ -14,7 +14,7 @@ Once you are ready to analyze the packets, download them from the main page.
 
 
 1. Wireshark (https://www.wireshark.org)
-2. <s>Word or Document Editor that can open Word Files<s> PDF Reader
+2. <s>Word or Document Editor that can open Word Files</s> PDF Reader
 3. A want to learn and explore packet analysis
 
 <br/>
