@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="ChatGPT Image Apr 30, 2026, 08_23_01 PM" src="https://github.com/user-attachments/assets/e0c19ff9-685b-4111-9fe4-877f532cc25b" />
+
 ---- Introduction ----
 
 Packet analysis is a fundamental skill in cybersecurity, enabling analysts to closely examine network traffic to understand typical behavior and identify anomalies. To build and strengthen this skill, these labs and packet captures provide hands-on exercises that help beginners develop foundational knowledge while allowing more experienced learners to reinforce and expand their practical expertise.
